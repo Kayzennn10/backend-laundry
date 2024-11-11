@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "serviceId": 1,
+        "clientId": 2,
+        "employeeId": 1,
+        "size": 2,
+        "totalPrice": 10000
+    },
+    {
+        "id": 2,
+        "serviceId": 2,
+        "clientId": 2,
+        "employeeId": 1,
+        "size": 3,
+        "totalPrice": 30000
+    },
+    {
+        "id": 3,
+        "serviceId": 3,
+        "clientId": 1,
+        "employeeId": 1,
+        "size": 4,
+        "totalPrice": 28000
+    },
+    {
+        "id": 4,
+        "serviceId": 4,
+        "clientId": 3,
+        "employeeId": 1,
+        "size": 1,
+        "totalPrice": 15000
+    },
+    {
+        "id": 5,
+        "serviceId": 5,
+        "clientId": 2,
+        "employeeId": 1,
+        "size": 2,
+        "totalPrice": 60000
+    }
+]

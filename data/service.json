@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Cuci",
+        "price": 5000,
+        "description": "Layanan pencucian pakaian secara profesional dengan hasil yang bersih dan harum."
+    },
+    {
+        "id": 2,
+        "name": "Cuci dan Setrika",
+        "price": 10000,
+        "description": "Paket cuci dan setrika yang membuat pakaian Anda rapi dan siap pakai."
+    },
+    {
+        "id": 3,
+        "name": "Setrika Saja",
+        "price": 7000,
+        "description": "Layanan setrika pakaian agar lebih rapi dan nyaman dipakai."
+    },
+    {
+        "id": 4,
+        "name": "Cuci Sepatu",
+        "price": 15000,
+        "description": "Layanan cuci sepatu agar tampak bersih dan terawat."
+    },
+    {
+        "id": 5,
+        "name": "Cuci Karpet",
+        "price": 30000,
+        "description": "Layanan pencucian karpet untuk menjaga kebersihan dan kenyamanan."
+    }
+]
